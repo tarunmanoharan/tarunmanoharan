@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tarunmanoharan/tarunmanoharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -54,7 +52,7 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,java,nextjs,mysql" /><br>
 </div>
 
@@ -83,7 +81,6 @@ Here are some ideas to get you started:
 <br/><br/>
 
 <hr/>
-
 
 <br/>
 
